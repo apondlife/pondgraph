@@ -1,0 +1,9 @@
+- we use [bitwarden](https://bitwarden.com/) as our shared password manager. we have a shared bitwarden account with credentials for any and all services we use.
+- it addition to sharing secrets and passwords, you can use it to autofill credentials.
+- # setup
+	- **install** the bitwarden apps
+		- on desktop, the [browser extension](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox)
+		- on mobile, the app for your device: [ios](https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8), [android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+	- **ask someone** else to share the master password with you
+		- *write the password down* on a piece of paper until you memorize it
+			- and then destroy the paper once you do!
