@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["wip" "wip/all"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,6 +422,5 @@
  :journal/page-title-format "yyyy/MM/dd"
  :feature/enable-timetracking? false
  :feature/enable-journals? false
- :default-home {:page "home"}
- :feature/enable-flashcards? false
- :feature/enable-whiteboards? true}
+ :default-home {}
+ :feature/enable-flashcards? false}
