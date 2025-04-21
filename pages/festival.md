@@ -4,5 +4,5 @@ date::
 deadline::
 form::
 status:: n/a 
-icon:: 🎪
+icon:: 𓎳
 template:: festival

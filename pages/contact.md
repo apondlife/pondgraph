@@ -4,3 +4,4 @@ EMAIL::
 PHONE::
 ADDRESS::
 TEMPLATE:: contact
+ICON:: 🃡
