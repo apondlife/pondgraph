@@ -9,10 +9,10 @@
 - DONE switch itch email to domain email #admin
 - DONE switch steamworks email to domain email #admin
 - DONE switch bluesky email to domain email #admin
-- DOING setup mail clients #mut #admin
+- DOING setup e-mail clients #mut #admin
   id:: 67fe6957-cad6-48cf-9651-2844d0081af9
 - TODO setup bank account #business
-- DOING post - local multiplayer teaser video #marketing
+- DONE post - local multiplayer teaser video #marketing
   id:: 67ff1b6f-600b-4951-8e2d-dfe53d19fc27
 - DONE graph page #accounting
   id:: 67fc0188-e4f3-4b17-9642-9204d7bd8dbe
@@ -35,7 +35,7 @@
 - DOING restore recording from localmp #marketing
   id:: 67fd2af3-e669-4ec2-a3e2-32677e208e1a
 - DONE investigate cost / legal options for llc #business
-- DOING find lawyer for llc #business
+- DOING call [[llc/lawyer]] to setup meeting #business
   id:: 67ff1b6f-d934-437f-a50d-0531a078a6a7
 - TODO create llc #business
 - TODO get business debit card #business

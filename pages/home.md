@@ -8,3 +8,6 @@
 	- [[accounting]]
 	- [[handbook]]
 	- [[wiki]]
+- # ◬ deadlines
+- {{query (and (property :type [[festival]]) (not (property :status "n/a") (sample 1)))}}
+  query-table:: false
