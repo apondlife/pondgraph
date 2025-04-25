@@ -32,7 +32,7 @@ ICON:: ▦
   id:: 67ff1b6f-5c51-4ef0-9df1-14d6fdcbe26e
 - DOING create tiktok #marketing
   id:: 67ff1b6f-ba25-4152-a8c3-7d2b573fca9f
-- DOING tool for snapshotting last X minutes #marketing
+- DOING tool for snapshotting last x minutes #marketing
   id:: 67ff1b6f-dc2f-48ee-81b6-61ff7c46560f
 - DOING restore recording from localmp #marketing
   id:: 67fd2af3-e669-4ec2-a3e2-32677e208e1a
@@ -57,7 +57,10 @@ ICON:: ▦
 - TODO move to self-hosted git #boshicloud
 - TODO ty u. #followup
 - TODO ben esposito #followup
-- TODO ben sw / ludwig #followup
+- TODO pitch offbrand (ben sw / ludwig) #business
+  id:: 68065229-7e48-45b3-b0b5-73d3af2f5565
+- TODO pitch devolver &c (bennett) #business
+  id:: 680b9f44-6929-4891-9c0a-22d5e189121a
 - TODO naomi #followup
 - TODO david kanaga #followup
 - TODO charles pratt for brutal feedback #followup
@@ -72,7 +75,6 @@ ICON:: ▦
 - DOING write script for [[pitch video]] #publishing
   id:: 6807a3ec-6a7c-42e5-8b0e-1925db17898f
 - TODO make pitch deck #publishing
-- TODO make production schedule #publishing
 - TODO make financial requirements doc #publishing
 - DONE make rubric for readiness #publishing
 - TODO schedule localmp sessions to record playtesting #publishing
@@ -80,3 +82,4 @@ ICON:: ▦
 - TODO schedule meeting with [[accountant]] #business
 - TODO request ein from new york state #business
 - TODO draft [[business plan]] #business
+- TODO finish wild dune mine game #wdmg

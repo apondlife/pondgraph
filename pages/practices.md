@@ -1,0 +1,3 @@
+- [[habit tracker]]
+- [[five minutes]]
+- check in mid workstream on changing priorities
