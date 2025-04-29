@@ -43,9 +43,18 @@
 		- this is real discovery, and it's **yours**.
 		- some routes might be **really** hard. we love difficulty, but we want you to take a deep breath and plant a flower when you need to. this is not a ragegame.
 	- **multiplayer**
-	  5
+	  collapsed:: true
+	  5 ??s 146w
+		- it's an online game. you don't have to struggle alone. you can learn from others and share what you know with them, too. you might find remnants of another player's experience entices you forward, only to find that player...
+		- ...and chase them as they run away from you. you might challenge each other to a race, a difficult jumps, or a game of horse.
+		- we're both passionate about folk games. tag, tug of war: the ones you might've played as a kid. twitch streamers already play hide and seek online in mario odyssey, we want to bring that spirit to everyone with discone. to create a world for players to play their own games . maybe this spot is a good hiding spot...
+		- it's a place to be with your friends, or with strangers, to play games or to hang out, to teach, learn, connect. and jump.
 	- **for tryhards, for casual groups of friends, for...**
-	  2
+	  2 ??s 66w
+		- we're making this game for many people...
+		- for casual groups of friends, looking for a run and jump hike together as they chat about their days.
+		- for tryhards who want refine every nuance in their movement, become untaggable, optimize routes, make a world-first summit.
+		- for committed groups of gamers, who want to follow one another to far off vistas, scale every tower, unravel the deep lore.
 	- **scale / market of references**
 	  5
 	- **appeal to streamers**
