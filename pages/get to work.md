@@ -1,1 +1,1 @@
-TAGS:: #references #references/backlog
+TAGS:: #reference
