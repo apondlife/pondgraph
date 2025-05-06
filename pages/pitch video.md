@@ -1,6 +1,5 @@
 - [storyboard](https://miro.com/app/board/uXjVMRX_488=/?moveToWidget=3458764625629405777&cot=14)
 - [script](https://pad.riseup.net/p/OMlf7RmItLSCEhM_ZC5B)
-  collapsed:: true
 	- legend
 	  collapsed:: true
 		- ty
@@ -51,6 +50,7 @@
 		- we're both passionate about folk games. tag, tug of war: the ones you might've played as a kid. twitch streamers already play hide and seek online in mario odyssey, we want to bring that spirit to everyone with discone. to create a world for players to play their own games . maybe this spot is a good hiding spot...
 		- it's a place to be with your friends, or with strangers, to play games or to hang out, to teach, learn, connect. and jump.
 	- **for tryhards, for casual groups of friends, for...**
+	  collapsed:: true
 	  2 ??s 66w
 		- we're making this game for many people...
 		- for casual groups of friends, looking for a run and jump hike together as they chat about their days.
@@ -63,15 +63,30 @@
 	- **but we are different...**
 	  2
 	- **rapid-fire list of future features**
-	  1
+	  collapsed:: true
+	  1 23w
+		- we have a lot in mind for the future that won't fit in this video, but we'd love to chat about it later.
 	- **roadmap/timeline**
-	  2
-	- **needs**
-	  2
+	  collapsed:: true
+	  3 94w
+		- we've planned a roadmap with **2 years** to initial release. presently, we're in **pre-production**, developing our content creation pipeline.
+		- we're targeting **12 months** to finish our **vertical slice**, a representative "content pack": a character to play, regions to explore, toys to play with, cosmetics that add personality.
+		- from there, we'll move into **12 months** of **production**, exercising the pipeline by creating a new content pack "update" every 4 months, and then release.
+		- **post-release**, we'll continue expanding the game through the 4 month update cycle, add new multiplayer systems, and run server-wide folk game events.
+	- **budget**
+	  collapsed:: true
+	  1 40w
+		- we're asking for $550,000 to support our 2 year release plan. that covers our full-time design & development costs, hiring people part-time for art & sound, and fixed production costs (studio space, tools, &c).
+	- **thanks**
+	  collapsed:: true
+	  1 15w
+		- we hope you consider it and enjoy pondlife: discone (a videogame).
+		- thanks for your time!
 	- **END**
 	  30
 - wip
   id:: 6808f7a0-1e9b-492a-9aec-d3358622fa6a
+	- TODO layout everything in davinci resolve #publishing
 	- TODO shot 1: cold open with two players on non-human mountain racing / climbing, playing well #publishing #footage/multiplayer
 	  id:: 68090649-400f-4bbd-ad10-51efe4b7cb3a
 	- TODO shot 2: us in real life introducing ourselves #publishing #footage/irl
@@ -129,5 +144,5 @@
 	- TODO shot 48: text and images of future stuff #publishing #graphic
 	- TODO shot 49: icecream sitting there looking at the stars/sun/moon moving (dream) #publishing #footage/singleplayer
 	- TODO shot 50: roadmap #publishing #graphic
-	- TODO shot 51: [[budget]] & resources #publishing #graphic
+	- DONE shot 51: [[budget]] & resources #publishing #graphic
 	- TODO shot 52: a lot of icecreams jumping down the mountain #publishing #footage/singleplayer

@@ -1,7 +1,10 @@
 ICON:: ▦
 
+- TODO obs scene for recording #marketing
+- TODO [[social media strategy]] #marketing
+  id:: 6818e054-5b66-461b-b3a2-e06b4badd878
+- TODO create melee setup #qol
 - DONE add spikes to code wip #game
-  id:: 6802879a-bdd8-4c6b-a05b-928b14e5e58b
 - DOING switch everything in bitwarden to custom email (except namecheap, imo) #admin
   id:: 67fc0107-5d69-4519-95ee-cf5603b27bcd
 - DONE get domain #web

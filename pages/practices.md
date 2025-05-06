@@ -1,3 +1,4 @@
 - [[habit tracker]]
 - [[five minutes]]
 - check in mid workstream on changing priorities
+- communicate times with eta
