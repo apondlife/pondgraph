@@ -80,13 +80,14 @@ ICON:: ▦
   id:: 67ff1b6f-ea64-45f7-8b63-37cc19c9971c
 - DONE storyboard [[pitch video]] #publishing
   id:: 6807a3e3-6b47-404d-81e4-02375e53db18
-- DOING write script for [[pitch video]] #publishing
+- DONE write script for [[pitch video]] #publishing
   id:: 6807a3ec-6a7c-42e5-8b0e-1925db17898f
 - TODO make pitch deck #publishing
 - TODO make financial requirements doc #publishing
 - DONE make rubric for readiness #publishing
 - TODO schedule localmp sessions to record playtesting #publishing
   id:: 6802815e-bad3-48b2-9fdb-27bd82ce04f3
+	-
 - TODO schedule meeting with [[accountant]] #business
 - TODO request ein from new york state #business
 - TODO draft [[business plan]] #business
