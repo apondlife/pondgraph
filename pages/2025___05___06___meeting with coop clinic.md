@@ -1,0 +1,63 @@
+- growth:
+	- specifically what we do in arts and entertainment
+		- we make videogames
+	- how big
+		- could be 4 people at some point
+		- not bigger than that in forseeable future
+	- [nyc nok](https://nycworker.coop/homepage/)
+		- they have funding with ny to help with technical stuff
+		- tool to look through legal entity options
+			- worker owners w/o work auth?
+			- tax benefits
+			- c corp, limited, coop
+		- but check with nyc folks might be nice to be specific to the
+- questionaire: do a magazine quiz together to hash out some details for the agreement (bylaws, operating agreement)
+- business plan
+	- being really industry specific
+	- being really coop specific
+	- business model canvas
+	- founders compensation
+		- how to track hours, reimbursement, payments &c
+		- future income
+	- things you never said out loud but assumed to be true?
+		- paid time off
+		- membership contribution
+			- eg: a thousand dollar investment / stake
+	- grants, loans, investment, revenue ?
+		- shared capital, why you might finance?
+		- cooperative lenders
+- ownership model canvas
+	- why would anyone want to own this?
+	- worker owner vs emplooyee? vs contractor
+- reach out to other games worker coops
+	- discord into coop?
+- processes could be valuable
+	- nyc has highest density of coops in the country
+	- wcbdi funding
+		- legal support
+		- financing support
+- we can get some advising if we feel overwhelmed
+	- technical assistance
+	- they could subsidize,
+		- nycnok
+		- coop academies
+- slack for casual questions
+- accountant
+	- they have referrals for accountants
+	- accountant coops
+		- or at least experienced with coops
+	- bookkeeping cooperative
+	- capital bookkeeping (albany)
+- a third person
+	- imaginary friend?
+- https://www.baltimoreroundtable.org/
+- governance matrix
+- monthly startup webinar
+- lawyer
+	- main use: review the incorporation docs for applying
+	- have it as complete as possible for minimal billing hours
+	- free legal support (law clinics)
+		- take root justice
+		- cuny school of law
+		- hofstra?
+	-
