@@ -1,10 +1,14 @@
 ICON:: ▦
 
-- TODO obs scene for recording #marketing
-- TODO [[social media strategy]] #marketing
+- DONE obs scene for recording #marketing
+- DOING [[social media strategy]] #marketing
   id:: 6818e054-5b66-461b-b3a2-e06b4badd878
+- DOING [[discord strategy]] #community
+  id:: 681b6dfd-814d-4bb9-b6e2-16cd33034d04
 - TODO create melee setup #qol
 - DONE add spikes to code wip #game
+- DOING publicize [[discord]] #marketing #community
+  id:: 681b6d82-995c-442a-8fd1-251a11d07ac2
 - DOING switch everything in bitwarden to custom email (except namecheap, imo) #admin
   id:: 67fc0107-5d69-4519-95ee-cf5603b27bcd
 - DONE get domain #web
@@ -33,7 +37,7 @@ ICON:: ▦
   id:: 67ff1b6f-2d74-45ba-a0fc-0fde20b1bc5e
 - TODO business cards #marketing
   id:: 67ff1b6f-5c51-4ef0-9df1-14d6fdcbe26e
-- DOING create tiktok #marketing
+- DOING rename tiktok #marketing
   id:: 67ff1b6f-ba25-4152-a8c3-7d2b573fca9f
 - DOING tool for snapshotting last x minutes #marketing
   id:: 67ff1b6f-dc2f-48ee-81b6-61ff7c46560f
@@ -45,7 +49,7 @@ ICON:: ▦
 - TODO create llc #business
 - TODO get business debit card #business
 - TODO switch steamworks to bank account #steam
-- DOING add behavior to .Life elements #web
+- DONE add behavior to .Life elements #web
   id:: 67fc02dd-bc6a-4467-bb06-8362c0b9a4db
 - DONE create home page #web
 - DONE create links page for qr code (to steam, to bsky, &c) #web
@@ -61,9 +65,9 @@ ICON:: ▦
   id:: 680652d1-dbb9-4c31-8cac-2b6ab4225708
 - TODO ty u. #followup
 - TODO ben esposito #followup
-- TODO pitch offbrand (ben sw / ludwig) #business
+- DOING pitch offbrand (ben sw / ludwig) #business
   id:: 68065229-7e48-45b3-b0b5-73d3af2f5565
-- TODO pitch devolver &c (bennett) #business
+- DOING pitch devolver &c (bennett) #business
   id:: 680b9f44-6929-4891-9c0a-22d5e189121a
 - TODO naomi #followup
 - TODO david kanaga #followup
