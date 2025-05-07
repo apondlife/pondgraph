@@ -9,6 +9,7 @@
   posted:: [[2025/05/03]]
   recorded:: [[2025/04/29]]
   media:: [2025-05-03-rotd.mp4](https://drive.google.com/file/d/1b1WXJVU_SKe8vT14MvBLzK_q2rYvZv3p/view?usp=drive_link)
-	- bringing back #routeoftheday what should we #namethisroute? (this clip took us about 20 minutes to hit...)
+	- bringing back #routeoftheday, what should we #namethisroute? (this clip took us about 20 minutes to hit...)
 	  
 	  #discone #rotd #jump #platformer #climbing #cute #folk #screenshotsaturday #indiegame #gamedev
+	- ALT:: bouncy-haired girl jumps up a few tricky boulders of craggy mountainside, hitting a nice a line and celebrating once reaching the top.
